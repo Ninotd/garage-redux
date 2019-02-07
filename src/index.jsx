@@ -20,7 +20,7 @@ ReactDOM.render(
   <Provider store={createStore(reducers, {}, middlewares)}>
     <Router history={history}>
       <Switch>
-        TODO
+
       </Switch>
     </Router>
   </Provider>,
